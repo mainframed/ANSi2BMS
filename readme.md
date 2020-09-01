@@ -8,11 +8,11 @@ It was developed because there were no free open source BMS creators that suppor
 
 Include with this repo is an example ANSI screen `ansi-test-map.ans`:
 
-<img>
+<img src="https://raw.githubusercontent.com/mainframed/ANSi2BMS/main/ansi-bms-ansi.png">
 
 Which when compiled and loaded in CICS looks like:
 
-<img>
+<img src="https://raw.githubusercontent.com/mainframed/ANSi2BMS/main/ansi-bms-kicks.png">
 
 
 ## Understanding BMS
